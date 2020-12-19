@@ -1,6 +1,6 @@
 package java_syntex.level_5.task0513;
 
-public class Solution {
+public class Rectangle {
     int top,left,width,height;
     public void initialize(int top)
     {
