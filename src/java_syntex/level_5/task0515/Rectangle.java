@@ -1,6 +1,6 @@
 package java_syntex.level_5.task0515;
 
-public class Solution {
+public class Rectangle {
     String name;
     char sex;
     int money;
