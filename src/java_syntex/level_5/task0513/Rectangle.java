@@ -1,7 +1,7 @@
 package java_syntex.level_5.task0513;
 
 public class Rectangle {
-    int top,left,width,height;
+    int top,left,width,height = 20;
     public void initialize(int top)
     {
 
